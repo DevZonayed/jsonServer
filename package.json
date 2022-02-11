@@ -1,0 +1,14 @@
+{
+  "name": "devs",
+  "version": "1.0.0",
+  "description": "This is A Developer data project for Practice purpas",
+  "main": "index.js",
+  "scripts": {
+    "database"  : "json-server --watch db.json --port 5050"
+  },
+  "author": "Zonayed Ahamad",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

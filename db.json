@@ -1,0 +1,34 @@
+{
+    "devs"  : [
+        {
+            "id"    :1,
+            "name"  : "Zonayed Ahamad",
+            "age"  : 20,
+            "skill"  : "Mern Stack",
+            "location"  : "Naogaon",
+            "admin"  : true,
+            "roll"  : "admin",
+            "image"  : "https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/271709276_700456181364022_5440642696709932769_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEMX9N860vP7VXENB1UFkUcooGhKPeopyaigaEo96inJjbNv1tUR5tiYSKdyDJGldfG3sbSBUbRxpXmx9z3Wk8u&_nc_ohc=C-B9Q8LW-u0AX-t8Tzf&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT_wEyb1aBk6PQBC6NguHoTpF2iAvnMX2U6taPCaloUg2Q&oe=620AF30A"
+        },
+        {
+            "id"    :2,
+            "name"  : "Sabbir Hossin",
+            "age"  : 20,
+            "skill"  : "Javascript",
+            "location"  : "Sylet",
+            "admin"  : false,
+            "roll"  : "developer",
+            "image"  : "https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/271709276_700456181364022_5440642696709932769_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEMX9N860vP7VXENB1UFkUcooGhKPeopyaigaEo96inJjbNv1tUR5tiYSKdyDJGldfG3sbSBUbRxpXmx9z3Wk8u&_nc_ohc=C-B9Q8LW-u0AX-t8Tzf&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT_wEyb1aBk6PQBC6NguHoTpF2iAvnMX2U6taPCaloUg2Q&oe=620AF30A"
+        },
+        {
+            "id"    :2,
+            "name"  : "Rayhanul islam",
+            "age"  : 25,
+            "skill"  : "Wordpress",
+            "location"  : "Sylet",
+            "admin"  : false,
+            "roll"  : "developer",
+            "image"  : "https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/271709276_700456181364022_5440642696709932769_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEMX9N860vP7VXENB1UFkUcooGhKPeopyaigaEo96inJjbNv1tUR5tiYSKdyDJGldfG3sbSBUbRxpXmx9z3Wk8u&_nc_ohc=C-B9Q8LW-u0AX-t8Tzf&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT_wEyb1aBk6PQBC6NguHoTpF2iAvnMX2U6taPCaloUg2Q&oe=620AF30A"
+        }
+    ]
+}
